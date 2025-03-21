@@ -6,11 +6,11 @@
 
 body {
     background-color: bisque;
-    background-image: linear-gradient(rgba(255, 228, 196, 0.8), rgba(0, 0, 0, 0.0.5)), url("/Images/my\ lovely\ restaurant.jpg");
+    background-image: linear-gradient(rgba(255, 228, 196, 0.8), rgba(0, 0, 0, 0.0.5)), url("Images/my\ lovely\ restaurant.jpg");
 }
 
 header {
-    background-image:linear-gradient(rgba(0, 0, 0, 0.023), rgba(0, 0, 0, 0.2)), url("/Images/Jollof\ Rice.jpg");
+    background-image:linear-gradient(rgba(0, 0, 0, 0.023), rgba(0, 0, 0, 0.2)), url("Images/Jollof\ Rice.jpg");
     background-color: wheat;
     color:#5271FF;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -43,7 +43,7 @@ section {
     color: aliceblue;
     text-decoration: solid;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.023), rgba(0, 0, 0, 0.2)), url("/Images/Jollof\ rice\ 2.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.023), rgba(0, 0, 0, 0.2)), url("Images/Jollof\ rice\ 2.jpg");
     font-size: medium;
     padding: auto;
     padding: 30px 100px;
@@ -53,7 +53,7 @@ section {
 footer {
     background-color: wheat;
     background-size: cover;
-    background-image: url("/Images/Restaurant.jpg");
+    background-image: url("Images/Restaurant.jpg");
     text-align: center;
     font-weight: lighter;
     text-decoration: underline;
